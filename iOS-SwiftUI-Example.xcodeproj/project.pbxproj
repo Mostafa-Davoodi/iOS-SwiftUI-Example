@@ -16,6 +16,7 @@
 		A37A0DB8286019A800092A87 /* ListExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = A37A0DB7286019A800092A87 /* ListExample.swift */; };
 		A37A0DBA286019CD00092A87 /* TabBarExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = A37A0DB9286019CD00092A87 /* TabBarExample.swift */; };
 		A37A0DBC286019EC00092A87 /* ScrollViewExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = A37A0DBB286019EC00092A87 /* ScrollViewExample.swift */; };
+		A3C2733E28615005002F7290 /* AlertExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3C2733D28615005002F7290 /* AlertExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		A37A0DB7286019A800092A87 /* ListExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListExample.swift; sourceTree = "<group>"; };
 		A37A0DB9286019CD00092A87 /* TabBarExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarExample.swift; sourceTree = "<group>"; };
 		A37A0DBB286019EC00092A87 /* ScrollViewExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewExample.swift; sourceTree = "<group>"; };
+		A3C2733D28615005002F7290 /* AlertExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 				A37A0DB7286019A800092A87 /* ListExample.swift */,
 				A37A0DB9286019CD00092A87 /* TabBarExample.swift */,
 				A37A0DBB286019EC00092A87 /* ScrollViewExample.swift */,
+				A3C2733D28615005002F7290 /* AlertExample.swift */,
 			);
 			path = Examples;
 			sourceTree = "<group>";
@@ -161,6 +164,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A37A0DB62860196B00092A87 /* ImageExample.swift in Sources */,
+				A3C2733E28615005002F7290 /* AlertExample.swift in Sources */,
 				A37A0DA72860190800092A87 /* ContentView.swift in Sources */,
 				A37A0DB42860193600092A87 /* TextExample.swift in Sources */,
 				A37A0DA52860190800092A87 /* iOS_SwiftUI_ExampleApp.swift in Sources */,

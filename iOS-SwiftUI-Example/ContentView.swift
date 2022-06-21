@@ -27,6 +27,10 @@ struct ContentView: View {
 		
 //		#5
 //		ScrollViewExample()
+		
+//		#6
+//		AlertExample()
+		
 	}
 }
 
